@@ -2,7 +2,7 @@
 href="https://scholar.google.com/citations?user=MWROEL4AAAAJ&hl=en&authuser=3&oi=ao" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" /></a><a
 href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-### Hi 👋, I am Mukesh Ramancha
+## Hi 👋, I am Mukesh Ramancha
 ---
 I'm a **postdoctoral researcher at UC San Diego** working on developing digital twins for physical systems. My work focuses on updating physics-based models using advanced statistical learning methods. This is part of an emerging discipline known as **Scientific Machine Learning**. 
   
