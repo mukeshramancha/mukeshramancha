@@ -1,9 +1,10 @@
+<a href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a
+href="https://scholar.google.com/citations?user=MWROEL4AAAAJ&hl=en&oi=ao" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" /></a><a
+href="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's ResearchGate" width="22px" src="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" /></a>
+
 ### Hi 👋, I am Mukesh Ramancha
-
-I'm a postdoctoral researcher at UC San Diego working on developing digital twins for physical systems. My work focuses on updating physics-based models using advanced statistical learning methods. This is part of an emerging discipline known as Scientific Machine Learning. 
-
-### You can find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mukeshramancha/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=MWROEL4AAAAJ&hl=en&oi=ao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha)
+---
+I'm a **postdoctoral researcher at UC San Diego** working on developing digital twins for physical systems. My work focuses on updating physics-based models using advanced statistical learning methods. This is part of an emerging discipline known as **Scientific Machine Learning**. 
 
 <!--
 **mukeshramancha/mukeshramancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
