@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a
+<a href="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" /></a>
 href="https://scholar.google.com/citations?user=MWROEL4AAAAJ&hl=en&oi=ao" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" /></a><a
-href="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's ResearchGate" width="22px" src="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" /></a>
+href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a
 
 ### Hi 👋, I am Mukesh Ramancha
 ---
