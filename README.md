@@ -1,6 +1,6 @@
-<a href="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" /></a>
+<a href="https://www.researchgate.net/profile/Mukesh-Kumar-Ramancha" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" /></a><a
 href="https://scholar.google.com/citations?user=MWROEL4AAAAJ&hl=en&authuser=3&oi=ao" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" /></a><a
-href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a
+href="https://www.linkedin.com/in/mukeshramancha/" target="_blank" rel="nofollow"><img align="right" alt="Mukesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ### Hi 👋, I am Mukesh Ramancha
 ---
